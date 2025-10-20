@@ -35,11 +35,11 @@
 
 ## Screenshot
 Lampirkan minimal 2 screenshot hasil implementasi fitur.
-- tampilan halaman
-![WhatsApp Image 2025-10-20 at 15 16 26 (1)](https://github.com/user-attachments/assets/4810f286-ac03-486c-8d03-1da91525ad44)
-
 - Tampilan Laporan Hasil pendapatan dan transaksi hari ini
 ![WhatsApp Image 2025-10-20 at 18 41 05 (3)](https://github.com/user-attachments/assets/64a5067e-326d-4e69-a9f5-2e18a60e89f1)
+
+- Tampilan Grafik penjualan
+![WhatsApp Image 2025-10-20 at 19 12 19](https://github.com/user-attachments/assets/19def8bb-9385-4561-989d-7fe3fbb5b1aa)
 
 ## Catatan Tambahan
 Susah melakukan tampilan pada devices
